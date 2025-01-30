@@ -76,14 +76,17 @@ DIF: 108
 ## 📷 Flowcharts
 
 ### **1️⃣ First Pass - Symbol Table Generation**
-
+![Screenshot 2025-01-30 164124](https://github.com/user-attachments/assets/dd01fe6e-e8a0-4d23-b073-f4416b470810)
 
 
 ### **2️⃣ Second Pass - Machine Code Generation**
+![Screenshot 2025-01-30 164141](https://github.com/user-attachments/assets/fbd85ac0-7c25-43fd-8698-446e8145645f)
 
 
+### **3️⃣ Example**
+![Screenshot 2025-01-30 164306](https://github.com/user-attachments/assets/dcd4aca0-d896-400f-ad85-2d067dc509ee)
+![Screenshot 2025-01-30 164528](https://github.com/user-attachments/assets/56496ca9-8900-42c9-8d8c-c421fe3e2ee3)
 
-### **3️⃣ Full Assembler Process**
 
 
 
@@ -103,10 +106,6 @@ DIF: 108
 3. Check the generated **Symbol Table** and **Machine Code Output**.
 
 ---
-
-## 📝 To-Do List
-
--
 
 ## 🤝 Contributing
 
