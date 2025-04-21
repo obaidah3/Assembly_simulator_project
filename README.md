@@ -1,5 +1,5 @@
 # Assembly_simulator_project
-# Two-Pass Assembler Simulator
+## Two-Pass Assembler Simulator
 
 This project is a **Two-Pass Assembler** that converts assembly language instructions into machine code. It simulates how an assembler processes assembly programs by generating a **Symbol Table** and then translating instructions into **binary machine code**.
 
