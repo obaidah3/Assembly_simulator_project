@@ -96,8 +96,8 @@ DIF: 108
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/assembler-simulator.git
-   cd assembler-simulator
+   [git clone https://github.com/yourusername/assembler-simulator.git
+   cd assembler-simulator](https://github.com/obaidah3/Assembly_simulator_project.git)
    ```
 2. Run the Python script:
    ```sh
