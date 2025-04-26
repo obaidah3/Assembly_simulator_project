@@ -92,19 +92,6 @@ DIF: 108
 
 ---
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-   ```sh
-  https://github.com/obaidah3/Assembly_simulator_project.git
-   ```
-2. Run the Python script:
-   ```sh
-   python assembler.py
-   ```
-3. Check the generated **Symbol Table** and **Machine Code Output**.
-
----
 
 ## 🤝 Contributing
 
